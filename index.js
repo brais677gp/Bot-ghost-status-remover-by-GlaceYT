@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["CONQUISTANDO 🤑","IN MY VEINS 🐍"];
+const statusMessages = ["CONQUISTANDO 🤑","IN MY VEINS 🐍","CONSERJE CACATINA 👌"];
 
 
 let currentIndex = 0;
